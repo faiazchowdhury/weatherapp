@@ -1,6 +1,6 @@
 # weatherapp
 
-A new Flutter application.
+Application developed using flutter. This is a weather forecast application, that uses api from "https://openweathermap.org/", the basic function of this app is to forecast current weather, hourly weather for 1 day and 7 day weather conditions forecast. 
 
 ## Getting Started
 
